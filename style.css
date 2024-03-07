@@ -9,15 +9,14 @@ body{
 .top-div{
     width: 50%;
     font-size: 149.5%;
+    color: #575757;
 }
 .top-div img{
     width: 558.26px;
-    .top-div h1{
-        color: #57575
-    }
+
     
 }
-.top-div a{
+ a{
     
     background-image: linear-gradient(orange, tomato);
     color: white;
@@ -30,4 +29,20 @@ body{
 }
 .net{
     color: orange;
+}
+
+
+.mid-container{
+    background-image: url(7.png);
+    display: flex;
+   padding: 102px
+   
+}
+    
+
+.mid-div{
+    width: 50%;
+}
+.mid-div img {
+    width: 50%;
 }
