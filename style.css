@@ -34,6 +34,7 @@ body{
 
 .mid-container{
     background-image: url(7.png);
+    background-repeat: no-repeat;
     display: flex;
    padding: 102px
    
@@ -45,4 +46,22 @@ body{
 }
 .mid-div img {
     width: 50%;
+}
+
+.third-div{
+text-align: center;
+font-size: 14px;
+color: #676767;
+}
+
+.recipies-container{
+    display: flex;
+    
+}
+.recipies-container img{
+    width: 337px;
+}
+.photo{
+    width: 33.33%;
+    margin: 35px;
 }
