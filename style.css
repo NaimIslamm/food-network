@@ -51,9 +51,10 @@ body{
 
 .third-div{
 text-align: center;
-font-size: 14px;
+font-size: 16px
 color: #676767;
 }
+
 
 .box img{
     height: 227px;
@@ -61,7 +62,9 @@ color: #676767;
 }
 .recipies-container {
     display: flex;
-    column-gap: 40px;
+   column-gap: 54px;
+    justify-content: center;
+    align-items: center;
 }
 .box p{
     font-size: 15.25px;
@@ -72,4 +75,18 @@ color: #676767;
     background-color: white;
     box-shadow: 2px 8px 15px gray;
     border-radius: 19px;
+    
+}
+.foot{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 160px;
+    
+}
+#orange{
+    color: orange;
+}
+#charcol{
+    color: grey;
 }
